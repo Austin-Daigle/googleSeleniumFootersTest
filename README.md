@@ -1,4 +1,4 @@
-# googleSeleniumFootersTest
+# Google.com Selenium Automation Footers Test
 This Java program uses the Selenium FireFox geckodriver.exe driver to test all of the footers in the Google.com search home page.
 
 # Program Overview:
