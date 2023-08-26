@@ -18,7 +18,3 @@ This Java program uses the Selenium FireFox geckodriver.exe driver to test all o
 Note that the program includes some hard-coded paths to the Firefox WebDriver executable, which may need to be updated based on your system configuration. The main class, `FooterTest`, contains the test scenarios and method calls.
 
 The program is primarily focused on verifying the titles of various settings and footer tabs on the Google homepage. It uses Selenium WebDriver commands to interact with the web elements and perform assertions on the page content.
-
-Additionally, some improvements could be made to enhance the code's readability and maintainability, such as using constants for repeated values and separating concerns into separate methods or classes.
-
-It's important to keep in mind that Selenium tests are sensitive to changes in web page structure, so regular updates to the program might be required to ensure continued functionality as the Google homepage evolves.
